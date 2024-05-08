@@ -36,6 +36,3 @@ npm run build
 # or
 yarn build
 
-
-
-Internship Assign
